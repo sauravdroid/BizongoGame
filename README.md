@@ -12,4 +12,6 @@ Start the Web App by running the following command
 
 > npm start
 
+The server port for backend is the `localConfig.js`, which can be changed by changing the value of `requestUrl`
+
 
